@@ -3,7 +3,7 @@ Identify patterns which indicate if a client has difficulty paying their install
 
 This project is an exploratory data analysis (EDA) of customer churn for a telecommunications company. The goal of this analysis is to identify the factors that contribute to customer churn and to provide recommendations to reduce churn rate.
 
-Dataset
+##Dataset
 The dataset used for this analysis is the Telco Customer Churn dataset, which contains information on customers who have left or are still with the company. The dataset includes variables such as customer demographics, services used, and account information.
 
 Data Cleaning
