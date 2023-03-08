@@ -1,7 +1,7 @@
 # Credit-EDA
 This project aims to analyze the lending data of a bank to understand the risk of losing money while lending to customers. The data includes information on customer demographics, credit history, loan amount, loan term, and other relevant variables.
 
-##Note: 
+## Note: 
 You need to download the dataset from the given link below.
 https://drive.google.com/drive/folders/1K51QfZkyl_qpfUzDiNj9HVomJb-jfAM_?usp=share_link
 
